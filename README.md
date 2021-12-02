@@ -7,6 +7,7 @@ linear regression, we created a supervised
 learning model that demonstrated a correlation
 between a set of textual features and review
 ratings.
+
 Our dataset consists of features such as the
 reviewer’s rating, review text, review summary,
 helpful votes and unhelpful votes on the review,
@@ -19,6 +20,7 @@ optimizations such as n-grams, regularization,
 sentiment analysis, and rounding of edge cases,
 we managed to improve upon the baseline
 model.
+
 We compare our model’s results with the
 baseline model by using Mean Squared Error
 (MSE) as the metric. The baseline resulted in an
