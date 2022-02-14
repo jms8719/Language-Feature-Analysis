@@ -1,4 +1,4 @@
-# Predicting-Amazon-Fresh-Foods-Ratings-With-Language-Feature-Analysis
+# Predicting Amazon Fresh Foods Ratings With Language Feature Analysis
 
 In this CSE 158 assignment, our team
 investigated Amazon Fine Foods reviews to
